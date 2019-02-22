@@ -10,7 +10,7 @@
 <link href="skin/default/style.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="../scripts/jquery/jquery-1.11.2.min.js"></script>
 <script type="text/javascript">
-    $(function () {
+    $(function () { 
         //检测IE
         if ('undefined' == typeof (document.body.style.maxHeight)) {
             window.location.href = 'ie6update.html';
